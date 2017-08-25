@@ -1,4 +1,4 @@
-# Example app with Angular 4 + Angular CLI + Angular Material + Travis CI
+<!-- # Example app with Angular 4 + Angular CLI + Angular Material + Travis CI
 
 > ### Base project made with much  :heart: . Contains CRUD, official style guide, patterns, etc.
 
@@ -92,4 +92,4 @@ MIT
 
 Enjoy :metal:
 
-We are always happy to hear your feedback!
+We are always happy to hear your feedback! -->
